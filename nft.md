@@ -2,6 +2,22 @@
 
 # on-chain?
 
+Storage cost for 1 MB with 5 gwei is 3.27 ETH auf Mainnet
+Storage cost for 1 KB with 5 gwei is 0.032 ETH auf Mainnet
+
+
+
+### 5 gwei
+
+176 bytes =  176/1024*0.032 = 0.0055 ETH
+2300 bytes =  2300/1024*0.032 = 0.0718 ETH
+
+### 50 gwei
+
+176 bytes =  176/1024*0.032*10 = 0.055 ETH
+2300 bytes =  2300/1024*0.032*10 = 0.718 ETH
+
+src: https://medium.com/coinmonks/storing-on-ethereum-analyzing-the-costs-922d41d6b316
 
 
 ## Autoglyphs
