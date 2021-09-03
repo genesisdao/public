@@ -8,6 +8,10 @@ https://etherscan.io/address/0xd4e4078ca3495de5b1d4db434bebc5a986197782#readCont
 
 ![Screenshot at 2021-09-04 00-24-28](https://user-images.githubusercontent.com/918180/132070767-465fa426-8e29-46d6-aa74-f451350ef719.png)
 
+screenshot from opensea, svg below
+![Screenshot at 2021-09-04 00-31-21](https://user-images.githubusercontent.com/918180/132071158-b87956ac-6525-4d9a-98c2-1468566dc60e.png)
+
+
 They make 128 Artist Prints! (of 512 128 are owned by them)
 
 ![Screenshot at 2021-09-04 00-27-52](https://user-images.githubusercontent.com/918180/132070938-bf3670ef-19ff-4433-9085-85c4808ebcde.png)
